@@ -49,7 +49,8 @@ The main goal of this project is to simulate a **real-world food delivery experi
 ---
 
 ## 📸 Screenshots  
-![screenshot1](DesImages/P1.jpeg)  ![screenshot2](DesImages/P2.jpeg)  
+<img src="DesImages/P2.jpeg" alt="Screenshot 1" width="200"/> 
+![screenshot2](DesImages/P2.jpeg)  
 ![screenshot3](DesImages/P3.jpeg)  
 ![screenshot4](DesImages/P4.jpeg)  
 ![screenshot4](DesImages/P5.jpeg)  
