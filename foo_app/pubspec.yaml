@@ -1,0 +1,75 @@
+name: foo_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_native_splash: ^2.4.6
+
+# ← هنا إعدادات flutter_native_splash بشكل صحيح
+flutter_native_splash:
+  color: "#03dac6"       # لون الخلفية
+  image: assets/splashphoto.png   # مسار اللوجو
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/B1.png
+    - assets/images/B2.png
+    - assets/images/B3.png
+    - assets/images/B4.png
+    - assets/images/B5.png
+    - assets/images/B6.png
+    - assets/images/P1.png
+    - assets/images/P2.png
+    - assets/images/P3.png
+    - assets/images/P4.png
+    - assets/images/Pasta1.png
+    - assets/images/Pasta2.png
+    - assets/images/touch.png
+    - assets/images/food-delivery.png
+    - assets/people/Zoherimg.jpg
+    - assets/people/NoImage.png
+    - assets/burger.png
+    - assets/pizza.png
+    - assets/spaguetti.png
+    - assets/filter.png
+    - assets/drink.png
+    - assets/stopwatch.png
+    - assets/waving-hand.png
+    - assets/splashphoto.png
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-packagedependencies:
