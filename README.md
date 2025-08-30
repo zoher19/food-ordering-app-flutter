@@ -60,6 +60,7 @@ The main goal of this project is to simulate a **real-world food delivery experi
 <img src="DesImages/P10.jpeg" alt="Screenshot 10" width="200"/>
 <img src="DesImages/P11.jpeg" alt="Screenshot 11" width="200"/>
 <img src="DesImages/P12.jpeg" alt="Screenshot 12" width="200"/>
+<img src="DesImages/P13.jpeg" alt="Screenshot 12" width="200"/>
 
 
 ---
