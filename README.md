@@ -40,8 +40,6 @@ The main goal of this project is to simulate a **real-world food delivery experi
 
 - **💳 Online Payment: Integrate with a payment gateway (Stripe, PayPal).**
 
-- **🛒 Cart System: Add multi-item cart with quantity control.**
-
 - **🔔 Notifications: Push notifications for order status updates.**
 
 - **🎨 UI/UX Enhancements: More advanced animations and responsive design.**
