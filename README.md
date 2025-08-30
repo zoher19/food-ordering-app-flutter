@@ -49,18 +49,19 @@ The main goal of this project is to simulate a **real-world food delivery experi
 ---
 
 ## 📸 Screenshots  
-<img src="DesImages/P2.jpeg" alt="Screenshot 1" width="200"/> 
-![screenshot2](DesImages/P2.jpeg)  
-![screenshot3](DesImages/P3.jpeg)  
-![screenshot4](DesImages/P4.jpeg)  
-![screenshot4](DesImages/P5.jpeg)  
-![screenshot4](DesImages/P6.jpeg)  
-![screenshot4](DesImages/P7.jpeg)  
-![screenshot4](DesImages/P8.jpeg)  
-![screenshot4](DesImages/P9.jpeg)  
-![screenshot4](DesImages/P10.jpeg)  
-![screenshot4](DesImages/P11.jpeg)  
-![screenshot4](DesImages/P12.jpeg)  
+<img src="DesImages/P1.jpeg" alt="Screenshot 1" width="200"/>
+<img src="DesImages/P2.jpeg" alt="Screenshot 2" width="200"/>
+<img src="DesImages/P3.jpeg" alt="Screenshot 3" width="200"/>
+<img src="DesImages/P4.jpeg" alt="Screenshot 4" width="200"/>
+<img src="DesImages/P5.jpeg" alt="Screenshot 5" width="200"/>
+<img src="DesImages/P6.jpeg" alt="Screenshot 6" width="200"/>
+<img src="DesImages/P7.jpeg" alt="Screenshot 7" width="200"/>
+<img src="DesImages/P8.jpeg" alt="Screenshot 8" width="200"/>
+<img src="DesImages/P9.jpeg" alt="Screenshot 9" width="200"/>
+<img src="DesImages/P10.jpeg" alt="Screenshot 10" width="200"/>
+<img src="DesImages/P11.jpeg" alt="Screenshot 11" width="200"/>
+<img src="DesImages/P12.jpeg" alt="Screenshot 12" width="200"/>
+
 
 ---
 
